@@ -1,5 +1,6 @@
-streamlit
-crewai
-langchain-openai
-python-dotenv
-chromadb
+streamlit==1.32.0
+crewai==0.28.8
+langchain-openai==0.1.0
+python-dotenv==1.0.0
+chromadb==0.4.24
+pydantic==1.10.15
